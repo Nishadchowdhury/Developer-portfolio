@@ -41,3 +41,27 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.div-shadow{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    padding: 35px 0 60px 20px;
+    border-left: 10px tomato solid;
+}
+.exp-h1{font-size: 35px;
+
+}
+.section-3{
+    background-image: url(ifile/pngs/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: 0 80%;
+    margin-bottom: 150px;
+}
+#ex2div{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice:1;
+}
+footer p {
+    text-align: center;
+}
