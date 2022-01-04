@@ -36,3 +36,8 @@ section{
     background-repeat: no-repeat;
 
 }
+.section-2{
+    background-image: url(ifile/pngs/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
